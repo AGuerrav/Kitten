@@ -1,0 +1,13 @@
+body{
+  background: url(../images/dawn.png) no-repeat center fixed;
+  -webkit-background-size: ;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+
+
+}
+.dawn{
+  padding-top: 24%;
+}
